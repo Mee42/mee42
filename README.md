@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+You can find some information about me on my website, mee42.dev
+<--
 **Mee42/mee42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
