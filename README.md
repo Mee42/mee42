@@ -1,3 +1,5 @@
 # Hi there 👋
 
-## You can find some information about me on my website, https://mee42.dev
+I'm Carson, I'm a high school senior in Fairfax Virginia
+
+### I'm currently looking for internship employment for the upcoming summer. [You can find my resume here](https://github.com/Mee42/resume/blob/master/resume.pdf)
