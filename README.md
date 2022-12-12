@@ -1,3 +1,5 @@
 # Hi there 👋
 
-I'm Carson, a freshmen at WPI.
+I'm Carson,
+
+Developer, "Engineer", Student at Worcester Polytechnic Institute '26
